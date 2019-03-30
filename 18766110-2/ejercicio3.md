@@ -5,11 +5,20 @@ Branches:
 
 Tags: no hay ningun tag
 
-commit 2b9f2d5b74df278dca7dbf45fb3277eb525288da (HEAD -> master)
+Commits:
+
+commit 1227000dd035a05ae7f5a29b74ea548ca264759e (HEAD -> master)
+Author: DGJumpa <jpraabm@hotmail.com>
+Date:   Sat Mar 30 00:14:50 2019 -0300
+
+mensaje:    tercer commit incluye ejerccio3. el segundo fue datos.md y el primero fue glosario.md
+
+
+commit 2b9f2d5b74df278dca7dbf45fb3277eb525288da
 Author: DGJumpa <jpraabm@hotmail.com>
 Date:   Sat Mar 30 00:10:22 2019 -0300
 
- mensaje:   segundo commit
+mensaje:   segundo commit
 
 commit fe00f799b8d58ffb13e3401df5e73611fa39bcda
 Author: DGJumpa <jpraabm@hotmail.com>
